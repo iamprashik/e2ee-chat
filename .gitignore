@@ -1,0 +1,10 @@
+# Generated message logs
+messages.json
+
+# Generated RSA keys
+*_private.pem
+*_public.pem
+
+# Python cache
+__pycache__/
+*.pyc
