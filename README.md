@@ -10,13 +10,13 @@ The project uses **RSA-2048 with OAEP/SHA-256** to securely exchange an **AES-25
 
 ### 💬 Encrypted Client Communication
 
-![E2EE Chat Clients](ss/clients.png)
+![E2EE Chat Clients](screenshots/clients.png)
 
 Alice and Bob exchange encrypted messages. The receiving client displays the ciphertext before decrypting the message locally.
 
 ### 🖥️ Relay Server
 
-![E2EE Relay Server](ss/server.png)
+![E2EE Relay Server](screenshots/server.png)
 
 The relay server receives and forwards the encrypted messages between clients without decrypting their contents.
 
