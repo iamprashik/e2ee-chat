@@ -149,7 +149,7 @@ e2ee-chat/
 ├── .gitignore
 ├── README.md
 │
-└── ss/
+└── screenshots/
     ├── clients.png
     └── server.png
 ```
